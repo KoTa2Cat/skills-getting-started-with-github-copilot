@@ -83,7 +83,10 @@ section h3 {
 
 .activity-card ul li {
   margin-bottom: 5px;
-  font-size: 15px;
+  font-size: 14px;
+  #participants {
+    color: #e39d6b62;
+  }
 }
 
 .form-group {
